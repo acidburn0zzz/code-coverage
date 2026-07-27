@@ -3,7 +3,7 @@
   "version": "0.12.0",
   "description": "Extension that augments several Mozilla websites (DXR, Searchfox) with code coverage information.",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "peerDependencies": {
     "eslint": ">=0.8.0"
